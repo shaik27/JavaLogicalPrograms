@@ -44,6 +44,5 @@ public class StringEqualtoOperator {
 		// Based on Memory Address
 		System.out.println(str7 == str8);
 		System.out.println(str7 == str9);
-
 	}
 }
